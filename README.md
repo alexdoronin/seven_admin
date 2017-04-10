@@ -1,4 +1,4 @@
-##Seven admin. Custom admin theme for Drupal 8
+# Seven admin. Custom admin theme for Drupal 8
 
 Full copy of the Seven theme.
 
