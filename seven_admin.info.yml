@@ -1,0 +1,22 @@
+name: Seven_admin
+type: theme
+core: 8.x
+base theme: seven
+description: 'Seven_admin custom sub-theme for Administration'
+alt text: 'Administration theme for Drupal 8 with simple blocks and clean lines.'
+
+libraries:
+  - seven_admin/global-styling
+
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+regions_hidden:
+  - sidebar_first
